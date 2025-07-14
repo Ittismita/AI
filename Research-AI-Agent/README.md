@@ -1,1 +1,1 @@
-This AI agent researches or a given query and saves the output into a text file
+This AI agent researches on a given query and saves the output into a text file
